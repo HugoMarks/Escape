@@ -7,5 +7,7 @@ Projeto desenvolvido como parte do projeto único da matéria Tópicos em Progra
 Autores:
 
 Hugo Marques Casarini
+
 Thales Augusto
+
 Thamer El Ayssami
